@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @hamna1amir
-- 👀 I’m interested in coding projects
-- 🌱 I’m currently learning Java,HTML,CSs,python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hamna1amir/hamna1amir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hamna Amir is a final year Computer Engineering student at UET Taxila with a strong passion for technology, machine learning, and web development. I focus on creating impactful projects that enhance user experiences, including a browser extension for detecting fake reviews on e-commerce platforms and a machine learning project that summarizes books into key insights. Proficient in Python, JavaScript, C++, HTML, CSS, and React, I am continuously expanding my skills in machine learning and web technologies. Feel free to explore my repositories or reach out via email at hamnaamir002@gmail.com 
