@@ -38,10 +38,6 @@ const hamnaAmir = {
 
 ### 🔹 Options Analytics Agent
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamna1amir&repo=Options-Analytics-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-</div>
-
 An AI-powered agentic system that helps users analyze stock options through natural language — combining LLM reasoning, RAG, and specialized financial tools to retrieve, analyze, and visualize real-time market data.
 
 | Layer | Technology |
@@ -60,10 +56,6 @@ An AI-powered agentic system that helps users analyze stock options through natu
 
 ### 🔹 Zestify
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamna1amir&repo=zestify&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-</div>
-
 A recipe & cooking discovery web app, deployed live for users to explore and cook with ease.
 
 | Layer | Technology |
@@ -77,50 +69,12 @@ A recipe & cooking discovery web app, deployed live for users to explore and coo
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=python,dart,js)
-
-**Frontend / Game Dev**
-
-![Frontend](https://skillicons.dev/icons?i=flutter,html,css)
-
-**Backend / Infra**
-
-![Backend](https://skillicons.dev/icons?i=fastapi,sqlite)
-
-**Cloud**
-
-![Cloud](https://skillicons.dev/icons?i=netlify)
-
-**AI / DB**
-
-![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)
-
-**Dev Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamna1amir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamna1amir&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="38%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamna1amir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamna1amir&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamna1amir&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=00000000" width="100%" />
-</div>
+**Languages:** Python, Dart, JavaScript
+**Frontend / Game Dev:** Flutter, HTML, CSS
+**Backend / Infra:** FastAPI, SQLite
+**Cloud:** Netlify
+**AI / ML:** TensorFlow, PyTorch, Scikit-learn
+**Dev Tools:** Git, GitHub, VS Code
 
 ---
 
